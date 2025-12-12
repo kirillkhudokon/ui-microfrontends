@@ -11,3 +11,4 @@ export { default as PostFilters } from './PostFilters';
 export { DateRangePicker } from './DateRangePicker';
 export { DateRangeFilter } from './DateRangeFilter';
 export type { DateRangeFilterRef } from './DateRangeFilter';
+export { default as ImageUpload } from './ImageUpload';

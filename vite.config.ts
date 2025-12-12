@@ -29,7 +29,7 @@ export default defineConfig({
         './TagInput': './src/components/TagInput',
         './Pagination': './src/components/Pagination',
         './PostFilters': './src/components/PostFilters',
-        
+        './ImageUpload': './src/components/ImageUpload',        
         './hooks/useDateRangeFilter': './src/hooks/useDateRangeFilter',
         './hooks/useFiltersWatch': './src/hooks/useFiltersWatch',
         './hooks/useSortFilter': './src/hooks/useSortFilter',
